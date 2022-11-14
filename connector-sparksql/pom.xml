@@ -34,7 +34,7 @@
         <log4j.version>1.2.17</log4j.version>
         <slf4j.version>1.7.7</slf4j.version>
         <scalacheck.version>1.12.2</scalacheck.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <powermock.version>1.5.5</powermock.version>
     </properties>
     <dependencies>
